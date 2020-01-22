@@ -81,7 +81,7 @@
 
 <h2 name="2">2 使用</h2>
 
-`blfresh.py (难度) (次数)`
+`blfresh.py (难度) (次数)` (这里需要管理员权限，用于`win32api.mouse_event`)
 
 刷困难： `python3 blfresh.py Hard 15`  
 刷普通： `python3 blfresh.py Normal 15`  
